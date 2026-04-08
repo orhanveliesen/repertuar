@@ -14,6 +14,9 @@ build/
 .cache-*
 .cache
 
+# Playlist data
+playlists/
+
 # YouTube Music OAuth
 oauth.json
 

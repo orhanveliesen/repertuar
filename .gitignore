@@ -29,6 +29,16 @@ playlist_report.json
 *.swp
 *.swo
 
+# Notations (downloaded PDFs)
+notations/
+
+# Browser REPL temp files
+cmd.txt
+out.txt
+login_ok.txt
+*_dump.html
+screenshot.png
+
 # Virtual environment
 venv/
 .venv/

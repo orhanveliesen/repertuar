@@ -1,0 +1,33 @@
+# title: Aşığınım
+# source: https://www.repertuarim.com/akor/fedon-asiginim-akor-4352.html
+
+[San]
+Am                                Dm
+E                                   Am
+Am                                      Dm
+E                                            Am  E   Am
+Am                                      E
+Dm                                    Am
+E                          Am
+Am                                      E
+Dm                                   Am
+E                         Am
+Am                                        Dm
+E                                           Am
+Am                                              Dm
+E                                                       Am   E    Am
+# lyrics:
+# Seninle olamazdık biliyordum
+# Bile bile yine seni seviyordum
+# Yollarımız bir değildi seziyordum
+# Şimdi neden neden canım bu özlem
+# Aşığınım yanında olamasam da
+# Aşığınım sana dokunamasam da
+# Geri dönüş olmasa da
+# Aşığınım yanında olamasam da
+# Aşığınım sana dokunamasamda
+# Sonsuza dek aşığınım
+# Seni görmek bana acı veriyordu
+# Görmemekse ölüm gibi geliyordu
+# Ne seninle ne de sensiz olmuyordu
+# Şimdi neden neden canım bu özlem

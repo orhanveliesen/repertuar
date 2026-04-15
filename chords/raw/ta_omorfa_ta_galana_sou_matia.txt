@@ -1,0 +1,36 @@
+# title: Ta omorfa ta galana sou matia
+# source: https://kithara.to/stixoi/MTcyMTU0NTE5/ta-omorfa-ta-galana-ntalaras-giorgos-lyrics
+
+[San]
+D      D#      D  D#     D      D#D
+D                     D#             D
+Cm        Gm       D#       Gm
+D#   D       D#         D  D#D
+# lyrics:
+# Τα όμορφα, τα γαλανά σου μάτια
+# που μοιάζουν σαν τ' αστέρια τ' ουρανού
+# πόσες καρδιές δεν κάνανε κομμάτια
+# έχουν την δύναμη του πλάστη εκεινού
+# Το κάτασπρό σου όμορφο κορμάκι
+# σαν τη κολόνα στέκει πάντα και μιλάς
+# μέσα σ' αυτόν τον ψεύτικο κοσμάκη
+# πάντα χαρούμενη βαδίζεις και γελάς
+# Όποιος θα πέσει στα δίχτυα τα δικά σου
+# σαν το γαρύφαλλο κι' αυτός θα μαραθεί
+# σαν τριαντάφυλλο θα σβήσει, δεν θ' αντέξει
+# κατάκαρδα κι αυτός θα πληγωθεί
+# (*) Η τονικότητα του τραγουδιού εκτιμήθηκε αυτόματα από τις συγχορδίες του. Σε περίπτωση λάθους στείλτε διόρθωση.
+# διαστήματα
+
+[Intro]
+A# G#m D#m A#  B A# Edim7 A# B A#  B A#   B A#
+# lyrics:
+# Εισαγωγή απο A# που το παιζει ο Μάρκος
+# Την εισαγωγή για κιθάρα κανείς;
+# to akousa kai apo ton patera    ntarala louka       glykia rempetiki foni
+# ΟΙ ΓΥΝΑΙΚΕ ΕΙΝΑΙ ΑΠΙΣΤΕ ΤΟ ΦΙΛΟΣΟΦΙΣΑ ΤΩΡΑ
+# Are TZWRTZINA gia tis matares sou ki oxi mono ekana ta panta alla den ektimhses tipota...den peirazei..na se kala!
+# poly kalo kommati!to eixa akoysei ston atlantis alla tha ithela na to akoyso kai live sto studio tous pou pigaino kai ego me to group mou
+# Προσθέστε το δικό σας σχόλιο / διόρθωση / αφιέρωση
+# Kithara International, Vanuatu. All rights reserved.
+# 0.0624 sec

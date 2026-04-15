@@ -1,0 +1,31 @@
+# title: Kahimo mes stin Kardoula mou
+# source: https://kithara.to/stixoi/MTE2MTYwODQz/peiraiotissa-kokotas-stamatis-lyrics
+# metre: 2/4
+# scale: G ματζόρε
+
+[Intro]
+| D | D C | G | C | D | D | G D7
+G                 D                  C   G
+G              D                   C    G
+C           G            C
+C         G      D     G
+# lyrics:
+# Bρήκα στον δρόμο κάτι παιδιά και τα ρώτησα
+# αν με θυμάσαι καμιά βραδιά, Πειραιώτισσα
+# Aν δεις στον ύπνο σου
+# μια νύχτα με βροχή φωτιά να καίει
+# είν' η καρδιά μου
+# που στενάζει μοναχή και σιγοκλαίει
+# Είν' η καρδιά μου
+# που στενάζει μοναχή και σιγοκλαίει
+# αν δεις στον ύπνο σου
+# μια νύχτα με βροχή φωτιά να καίει
+# Mακριά στα ξένα, στην ξενιτιά, βαριά αρρώστησα
+# κι ήρθα κοντά σου να βρω γιατρειά, Πειραιώτισσα
+# Aν δεις στον ύπνο σου...
+# διαστήματα
+# Δοκιμαστε το κομματι απο D# και γενικα C# κτλ για να βρειτε που σας ταιριαζει.....
+# Swstos kai swsto kai to kommati. Oi Peiraiwtisses exoune kapsei kosmo kai kosmaki.
+# Προσθέστε το δικό σας σχόλιο / διόρθωση / αφιέρωση
+# Kithara International, Vanuatu. All rights reserved.
+# 0.0588 sec

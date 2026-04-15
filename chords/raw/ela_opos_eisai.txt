@@ -1,0 +1,33 @@
+# title: Ela opos eisai
+# source: https://kithara.to/stixoi/NTI2ODgyMTU2
+# metre: 2/4
+# scale: F μινόρε
+
+[Intro]
+Συγχορδία: 	Fm	Gdim	G#	A#m	C|Cm	C#	D#
+Fm Bbm Fm Bbm Fm Bbm Dbm Ebm
+Fm Bbm Fm Bbm Dbm Ebm Fm
+Fm
+Fm
+Fm Bbm Fm Bbm Dbm Ebm Fm
+Fm
+Fm
+# lyrics:
+# Σαν τις αλογόμυγες    στης άνοιξης την πλάτη
+# C7                 Fm  C7             [Fm      Bbm x2] Dbm Ebm Fm
+# τώρα χάσκουν αδειανά    τα πολυβολεία o-o-o-o ooo
+# Τα κοιτώ κι αναριγώ   που μια μέρα είδα
+# C7                 Fm  C7                   [Fm      Bbm x2] Dbm Ebm Fm
+# τον αντάρτη τον Ραμόν  στ' ουρανού την άκρη o-o-o-o ooo
+# Άρμεγε μια αχτένιστη  μία ρούσα γίδα
+# C7                 Fm C7                 [Fm      Bbm x2] Dbm Ebm Fm
+# κι όπως κοντοστάθηκα  λόγο μου απευθύνει o-o-o-o ooo
+# Είναι τόσο όμορφη η μέρα που πονάει
+# C7                    Fm C7                [Fm      Bbm x2]
+# και με μια γερή κλωτσιά  όλο το γάλα χύνει o-o-o-o ooo
+# F Eb Db Eb7 [x7]  F Eb Db B   Eb Eb Db Eb   F
+# διαστήματα
+# (Δεν βρέθηκαν)
+# Προσθέστε το δικό σας σχόλιο / διόρθωση / αφιέρωση
+# Kithara International, Vanuatu. All rights reserved.
+# 0.0512 sec

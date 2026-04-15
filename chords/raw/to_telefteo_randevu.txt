@@ -1,0 +1,46 @@
+# title: To telefteo randevu
+# source: https://kithara.to/stixoi/MjIwOTA3MzUx/to-teleytaio-rantebou-bafeiadis-tsarpalis-lyrics
+# scale: B μινόρε (*)
+
+[Intro]
+Συγχορδία: 	Bm	C#dim	D	Em	F#|F#m	G	A
+Bm           A              Bm
+A                Bm
+G                   A              Bm
+Em                F#m              Bm
+A                Bm
+A              Bm
+G                A              Bm
+G                  A               D
+Em                      F#m
+F#m       Bm
+# lyrics:
+# Ότι θυμάσαι εσύ θυμάμαι κι εγώ
+# τα καλοκαίρια που περάσαν τελειώνουν εδώ
+# ήσουν ο πρώτος μου έρωτας μετά το κενό
+# με εφιάλτες όμως τώρα με άφησες να ζω
+# Στου Δηλαβέρη το πάρκο μου είπες στις έξι
+# κι εγώ περιμένω εκεί ακόμα μια λέξη
+# Em              F#m              G {G-F#m}
+# όμως δεν ήρθες ποτέ κι εγώ περιμένω
+# Em             F#m            Bm {Bm-A}
+# ένα δικό σου φιλί ακόμα προσμένω
+# Το τελευταίο ραντεβού δεν το ξεχνώ
+# κι αν δε θυμάσαι εσύ θυμάμαι όμως εγώ
+# Em                  F#m              G {G-F#m}
+# κάθε στιγμή που θα 'ρχεται θα είμαι εκεί
+# με τα τραγούδια να σου λέω
+# να σου λέω το γιατί...
+# Ήρθε η ώρα τα πιω και να φερθώ ακραία
+# να κάψω τις σελίδες μας που γράψαμε παρέα
+# να κάψω την αγάπη μου να κάψω να όνειρά μου
+# να μείνω τώρα μόνος μου μέσα στη μοναξιά μου
+# (*) Η τονικότητα του τραγουδιού εκτιμήθηκε αυτόματα από τις συγχορδίες του. Σε περίπτωση λάθους στείλτε διόρθωση.
+# διαστήματα
+# AGAPHTE, APAKSIO NA SOU MILISW MONO KAI MONO EPEIDI NOMIZEIS OTI EISAI HXOLHPTHS... ENAS EINAI STO KOSMO.. LYPAMAI PRAGMATIKA GIATI POLLA NEA PAIDIA ONEIREYONTAI NA GINOYN KAPOIA STIGMI KORYFAIOI HXOLHPTES. LYPAMAI. ANTIO.
+# thelw na po file mou oti to kommati sou ta spaei!!na sai kala kai tha thela na se gnorisw gia mia sinergasia pou tha kanei treli epitixia.perimeno mail sou . . .
+# ΘΑ ΗΘΕΛΑ ΝΑ ΤΟΝΙΣΩ ΣΤΟΝ κ.ΓΟΥΝΑΡΗ, ΤΟΝ ΜΕΓΑΛΥΤΕΡΟ ΕΛΛΗΝΑ ΜΟΥΣΙΚΟ ΠΑΡΑΓΩΓΟ, ΟΤΙ ΤΟ ΚΟΜΜΑΤΙ ΑΥΤΟ ΓΡΑΦΤΗΚΕ ΜΕ ΑΦΟΡΜΗ ΕΝΑ ΓΕΓΟΝΟΣ ΠΟΥ ΣΧΕΤΙΖΕΤΑΙ ΜΕ ΤΟ ΠΑΡΚΟ ΤΟΥ ΔΗΛΑΒΕΡΗ ΚΑΙ ΜΕ ΜΙΑ ΚΟΠΕΛΑ... ΘΑ ΗΘΕΛΑ ΕΠΙΣΗΣ ΝΑ ΤΟΝ ΕΥΧΑΡΙΣΤΗΣΩ ΓΙΑ ΤΑ ΠΟΛΥ ΘΕΤΙΚΑ ΣΧΟΛΙΑ ΤΟΥ ΚΑΙ ΝΑ ΤΟΥ ΥΠΟΣΧΕΘΩ ΟΤΙ ΘΑ ΠΡΟΣΠΑΘΗΣΩ, ΟΤΑΝ ΚΑΤΑΦΕΡΩ ΝΑ ΚΑΤΕΒΩ ΑΠΟ ΝΕΑ ΥΟΡΚΗ, ΝΑ ΠΕΡΑΣΩ ΑΠΟ ΤΟ STUDIO ΤΟΥ!! ΕΥΧΑΡΙΣΤΩ.
+# ΠΑΙΔΙΑ ΤΙ ΝΑ ΠΩ, ΤΟ ΚΟΜΜΑΤΙ ΕΙΝΑΙ ΤΕΛΕΙΟ, ΑΨΟΓΟ ΘΑ ΕΛΕΓΑ ΚΑΙ ΟΛΟΣΩΣΤΟ ΣΕ ΣΥΓΧΩΡΔΙΕΣ!! ΣΥΓΧΑΡΗΤΗΡΙΑ ΓΙΑ ΤΗΝ ΔΗΜΙΟΥΡΓΙΑ ΑΥΤΗ!!! ΣΑΣ ΠΕΡΙΜΕΝΩ ΣΤΟ STUDIO...
+# Προσθέστε το δικό σας σχόλιο / διόρθωση / αφιέρωση
+# Kithara International, Vanuatu. All rights reserved.
+# 0.0522 sec

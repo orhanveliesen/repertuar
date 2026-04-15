@@ -1,0 +1,104 @@
+# title: Pou se Thanasi
+# source: https://kithara.to/stixoi/MTU1NDQ0ODc5
+# scale: Το τραγούδι είναι γραμμένο σε δρόμο  μινόρε.Γι'αυτό νομίζω ότι σε τόνο Ρε ή Λα η συγχορδία Μι είναι μινόρε.
+
+[Intro]
+Συγχορδία: 	Am	Bdim	C	Dm	E|Em	F	G
+Am     E
+Am
+E                      Am
+E     F      E   Am
+E     F    E    Am
+Am       Dm E           F Am
+Dm         E
+Dm E          F Am
+Dm        Am          E       Am
+Am      C           E
+Am
+C        E                 Am EAm
+Am                E     F        E   Am
+E     F     E     Am
+# lyrics:
+# θα πάρω σβάρνα μια βραδιά
+# όλες τις συνοικίες
+# δε θέλω πολυτέλειες και πολυκατοικίες
+# Είχα έναν παλιόφιλο, τα ίχνη του έχω χάσει
+# σ' ένα στέκι απόμερο, το στέκι του Θανάση
+# Πού 'σαι Θανάση, πού 'σαι Θανάση
+# ήθελα να σ' αντάμωνα
+# Που 'σαι Θανάση, πού 'σαι Θανάση
+# Ήθελα να σ' αντάμωνα, η γρουσουζιά να σπάσει
+# Εκεί θα βρω της νιότης μου
+# τα φίνα τα ωραία
+# Τον Μάνθο τον Θεμιστοκλή
+# και τη παλιά παρέα
+# Δίπλα θα καθίσουμε σαν πρώτα στο τραπέζι
+# και μαζί θ' ακούσουμε γλυκιά πενιά να παίζει
+# Πού 'σαι Θανάση...
+# (*) Η τονικότητα του τραγουδιού εκτιμήθηκε αυτόματα από τις συγχορδίες του. Σε περίπτωση λάθους στείλτε διόρθωση.
+# διαστήματα
+# θα πάρω σβάρνα μια βραδιά
+# όλες τις συνοικίες
+# δε θέλω πολυτέλειες και πολυκατοικίες
+# Είχα έναν παλιόφιλο, τα ίχνη του έχω χάσει
+# σ’ ένα στέκι απόμερο, το στέκι του Θανάση
+# Μαγκες τις συγχορδίες που βλέπετε τις παίζετε 1 ημιτονιο μπροστά. (+1)
+# προτεινόμενες διορθώσεις:
+
+[Intro]
+Am           E
+Am
+E                 Am EAm
+Am            F   E     F        E   Am
+F   E     F     E     Am
+Am         Dm E             F Am
+Dm           E
+Dm E             F Am
+Dm          Am             E        AmEAm
+Am            E
+Am
+E                  Am EAm
+Am          F   E        F     E    Am
+F   E       F     E     Am
+# lyrics:
+# Intro:
+# Am   C            (x2)
+# Am   C G  Am      (x2)
+# θα πάρω σβάρνα μια βραδιά
+# όλες τις συνοικίες
+# δε θέλω πολυτέλειες και πολυκατοικίες
+# Είχα έναν παλιόφιλο, τα ίχνη του έχω χάσει
+# σ’ ένα στέκι απόμερο, το στέκι του Θανάση
+# Refrain
+# Πού ‘σαι Θανάση, πού ‘σαι Θανάση
+# ήθελα να σ’ αντάμωνα
+# Που ‘σαι Θανάση, πού ‘σαι Θανάση
+# Ήθελα να σ’ αντάμωνα, η γρουσουζιά να σπάσει
+# Εκεί θα βρω της νιότης μου
+# τα φίνα τα ωραία
+# Τον Μάνθο τον Θεμιστοκλή και τη παλιά παρέα
+# Δίπλα θα καθίσουμε σαν πρώτα στο τραπέζι
+# και μαζί θ’ ακούσουμε γλυκιά πενιά να παίζει
+# Πού ‘σαι Θανάση...Refrain
+# Μπορει καποιος να το γραψει σωστα ευχαριστω.
+# ta 4/5 twn sugxordiwn einai lathos
+# Gnoriza poly kala ton Zampeta as po kiolas oti eimaste filoi kai geitones.tragoudisa kai mazi tou stin Jiorti tou krasiou sto Dafni, meta xorisan oi dromoi mas.O Zampetas den itan tragoudistis, itan terastios adikimenos Synthetis kai anepanaliptos os pros tin ektelesi ton tragoudion.Pantos to tragoudi auto stin proti tou ektelesi einai apo h diladi si-.
+# apo laika dialego zampeta
+# poly wraiw
+# ΠΑΙΔΙΑ ΥΠΑΡΧΟΥΝ ΚΑΛΛΟΙ ΚΑΙ ΚΑΚΟΙ ΤΡΑΓΟΥΔΗΣΤΕΣ,ΑΥΤΟΣ ΕΙΝΑΙ ΑΠΟ ΤΟΥΣ ΚΑΛΟΥΣ ΧΡΗΣΤΟΣ ΚΑΙ ΕΙΜΑΙ 12 ΧΡΟΝΩΝ
+# ρε παιδια ο τονισμος ειναι τελειως λαθος....
+# apexto!
+# an mpeis kai pote deis ayti tin afierosi  filarako mou thanasi thelo na mou to peis to tragoydaki ayto to afierono se sena me oloi mou tin agapei giati eisai o kolitos mou.louve eisai trela kai to kalitero paidi pou exo gnorisei se agapao re trele o filo sou ntinakos
+# ρε παιδια ασ το γραψει καποιοσ σωστα!
+# Στιχοι είναι του Μπάμπη Βασιλιάδη, γνωστός και ως «Τσάντας» όπως πολυ σωστα λέει πιο πάνω ο lukas.
+# Το τραγούδι αυτό το είχε γράψει και είχε πει στη γυναίκα του όταν πεθάνει να το δώσει στον Ζαμπέτα. Και έτσι στην κηδεία του, η γυναίκα του το έδωσε ένα φάκελο στο Ζαμπετα με αυτό το κομμάτι μεσα.
+# Στιχουργός του τραγουδιού δεν είναι ο Ζαμπέτας αλλά ο Χαράλαμπος Βασιλειάδης, ο επονομαζόμενος και "Τσάντας".
+# Exw dio sxolia : 1on) O Zampetas den Htan tragoudistis alla mousikosyn8etis tragoudopoios o opoios tragoudage ta tragoudia tou.. Auti Htan H aksia tou (Akou Lampros tragoudistis, Eleos) kai 2on) H Parapanw ektelesi einai Swsti!!! Sto prwto antamwna einai E. Anwnyme lypame re file.. As ton Voh8isei o 8eos..
+# Στον φίλο μου τον Βασίλη. Που μπήκε στον άσχημο δρόμο τον ναρκωτικών, τον έχασα και διαλύθηκε η όμορφη παρέα μας.
+# en i pellara sou p en Am sto proto antamona alla telos panton
+# Γενικα εχει ψιλολαθακια,οπως στο πρωτο 'ανταμωνα' ειναι Αm.
+# Θα θελα να αφιερωσω αυτο το τραγουδι στο φιλο μου το γιωργο,που δεν ειναι πια στη ζωη.Καπου εκει πανω θα το ακουει κ θα μας σκεφτεται..
+# o zampetas ine ena ali8ino asteri.apo tin ora pou geni8ike egine lampros tragoudistis
+# Προσθέστε το δικό σας σχόλιο / διόρθωση / αφιέρωση
+# Kithara International, Vanuatu. All rights reserved.
+# 0.0517 sec
